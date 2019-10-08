@@ -4,9 +4,13 @@ This sample project demonstrates how to implement Double Submit Cookie Token Pat
 
 
 Deployment language - php/javascript, Run files with apache web server
+
+
 Username-admin
 
 Password-admin123
+
+
 Below link(Blog) provide brief description about the project.
 
 Link ->https://medium.com/@chamodikapuge/double-submit-cookie-pattern-csrf-c93056c14f5a
