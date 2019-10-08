@@ -1,6 +1,8 @@
 # IT17164986-Double-Submit-Cookie-Token-Pattern
 
 This sample project demonstrates how to implement Double Submit Cookie Token Pattern in web pages.
+
+
 Deployment language - php/javascript, Run files with apache web server
 Username-admin
 
