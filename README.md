@@ -1,0 +1,1 @@
+# IT17164986Double-Submit-Cookie-Token-Pattern
